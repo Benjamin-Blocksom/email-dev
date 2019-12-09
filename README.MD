@@ -6,6 +6,6 @@ Am I taking on new opportunities? Yes. Please contact me to discuss your project
 
 Can you follow me on social media? Sure. Links are on the bottom and I tend to follow back.
 
-Can you tell me more? Of course. Start with my F.A.Q. page or read some of my articles.
+Would you like for more info? Of course. You can check out my F.A.Q. page or read some of my articles.
 
 &copy; 2019 Benjamin Blocksom.

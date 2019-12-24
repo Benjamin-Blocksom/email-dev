@@ -65,7 +65,7 @@ a {
   text-decoration: none; }
 
 a:hover {
-  color: #f9423a; }
+  color: var(--purple); }
 
 ul {
   list-style: none;
@@ -80,7 +80,7 @@ ol {
   margin: 0; }
 
 :focus {
-  outline: 1px solid #f9423a; }
+  outline: 1px solid var(--purple); }
 
 /* --------------------------------------------------------*/
 header {
@@ -119,7 +119,7 @@ header {
       grid-column: 1 / 4;
       text-align: right; }
     header h1:nth-child(2) {
-      color: var(--title-red);
+      color: var(--purple);
       writing-mode: vertical-lr;
       grid-column: 3 / 4;
       grid-row: 2 / 5;
@@ -152,7 +152,7 @@ header {
       grid-column: 3 / 6;
       grid-row: 5;
       font-size: 0.9rem;
-      border-bottom: 25px solid #f9423a;
+      border-bottom: 25px solid var(--purple);
       align-self: start;
       justify-content: end;
       line-height: 1.3;
@@ -184,7 +184,7 @@ header {
           align-self: start;
           text-align: left}
         header .follow-links {
-          border-bottom: 20px solid #f9423a; } }
+          border-bottom: 20px solid var(--purple); } }
     @media (max-width: 700px) {
       header .demo-list {
         grid-column: 3 / -1;
@@ -203,7 +203,7 @@ header {
       header .follow-links {
         grid-column: 1 / 4;
         grid-row: 3;
-        border-bottom: 10px solid #f9423a; }
+        border-bottom: 10px solid var(--purple); }
       header .demo-list {
         grid-column: 1 / -1;
         grid-row: 4; }
@@ -223,7 +223,7 @@ header {
 
 nav,
 .bar {
-  background: #f9423a;
+  background: var(--purple);
   padding: 1.04rem 5vw 0.9rem calc(5vw + 1.2rem);
   font-weight: 700;
   text-transform: uppercase;

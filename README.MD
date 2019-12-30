@@ -4,6 +4,6 @@ This project brings together standard templates for email development, as well a
 
 Want to present me with a new opportunities? Sure. Email me at benjamin.blocksom@gmail.com. Let's discuss your project, schedule a chat, or just swap ideas.
 
-Can you follow me on social media? @blocksom on Twitter. 
+Can you follow me on social media? @blocksom on Twitter. AbraCadabstrax on Hacker News.
 
 &copy; 2019 Benjamin Blocksom.
